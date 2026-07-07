@@ -1,0 +1,74 @@
+{
+    "version": 1,
+    "levels": {
+        "a1": [
+            {
+                "id": "a1_present_simple",
+                "title": "Present Simple",
+                "description": "Talk about habits, daily routines, and general truths.",
+                "forms": {
+                    "positive": "Subject + Verb (base / -s / -es)",
+                    "negative": "Subject + do/does + not + Verb (base)",
+                    "question": "Do/Does + Subject + Verb (base)?"
+                },
+                "usages": [
+                    {
+                        "useTitle": "Habits & Routines",
+                        "description": "Describe things we do regularly or as a habit.",
+                        "examples": [
+                            "I drink coffee every morning.",
+                            "She plays tennis on Saturdays.",
+                            "They watch TV in the evening."
+                        ]
+                    },
+                    {
+                        "useTitle": "General Truths / Facts",
+                        "description": "State facts that are always true or natural laws.",
+                        "examples": [
+                            "Water boils at 100 degrees Celsius.",
+                            "The sun rises in the east."
+                        ]
+                    }
+                ],
+                "signalWords": [
+                    "always",
+                    "usually",
+                    "often",
+                    "sometimes",
+                    "never",
+                    "every day",
+                    "on Mondays"
+                ],
+                "commonMistakes": [
+                    {
+                        "incorrect": "She go to school by bus.",
+                        "correct": "She goes to school by bus.",
+                        "explanation": "With third-person singular subjects (he, she, it), always add -s or -es to the verb in positive statements."
+                    },
+                    {
+                        "incorrect": "He doesn't likes coffee.",
+                        "correct": "He doesn't like coffee.",
+                        "explanation": "In negative statements, the auxiliary 'does/doesn't' already shows the singular tense, so the main verb must remain in its base form (like)."
+                    }
+                ],
+                "quizzes": [
+                    {
+                        "question": "Choose the correct sentence:",
+                        "options": [
+                            "She work at a bank.",
+                            "She works at a bank.",
+                            "She working at a bank."
+                        ],
+                        "correctIndex": 1,
+                        "explanation": "For third-person singular (she), we add -s/es to the verb."
+                    }
+                ]
+            }
+        ],
+        "a2": [],
+        "b1": [],
+        "b2": [],
+        "c1": [],
+        "c2": []
+    }
+}
