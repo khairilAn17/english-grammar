@@ -1,0 +1,98 @@
+{
+  "id": "a1_adverbs",
+  "title": "Adverbs",
+  "description": "Describe how, when, where, and how often actions happen.",
+  "forms": {
+    "positive": "Manner: Adjective + -ly (e.g., quickly, softly) | Frequency: always, often | Place: here, there | Time: today, yesterday",
+    "negative": "N/A - Classification Concept",
+    "question": "Does the adverb modify a verb, an adjective, or another adverb?"
+  },
+  "usages": [
+    {
+      "useTitle": "Adverbs of Manner (How)",
+      "description": "Adverbs of manner describe the way or method in which an action is performed.",
+      "examples": [
+        "She sang the song **beautifully**.",
+        "They solved the problem **easily**.",
+        "Please speak **quietly** in the library."
+      ]
+    },
+    {
+      "useTitle": "Adverbs of Frequency (How Often)",
+      "description": "Adverbs of frequency describe how often an action occurs, ranging from always to never.",
+      "examples": [
+        "I **always** brush my teeth before bed.",
+        "She **sometimes** walks to work.",
+        "They **never** skip class."
+      ]
+    },
+    {
+      "useTitle": "Adverbs modifying Adjectives/Adverbs",
+      "description": "Adverbs can modify adjectives or other adverbs to indicate intensity or degree (often called intensifiers).",
+      "examples": [
+        "The water is **extremely** cold.",
+        "He ran **very** quickly."
+      ]
+    }
+  ],
+  "signalWords": [
+    "how",
+    "when",
+    "where",
+    "always",
+    "usually",
+    "often",
+    "sometimes",
+    "never",
+    "very",
+    "quickly",
+    "quietly"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She drives very careful.",
+      "correct": "She drives very carefully.",
+      "explanation": "To describe *how* she performs the action 'drives', we must modify the verb with the adverb 'carefully', not the adjective 'careful'."
+    },
+    {
+      "incorrect": "I always am happy to help.",
+      "correct": "I am always happy to help.",
+      "explanation": "Adverbs of frequency come *after* the verb 'to be' (am, is, are, was, were) but *before* other verbs."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What does the bold adverb modify? 'The book was **unusually** short.'",
+      "options": [
+        "A verb ('was')",
+        "An adjective ('short')",
+        "A noun ('book')",
+        "Another adverb"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Unusually' modifies the adjective 'short', describing the degree of shortness."
+    },
+    {
+      "question": "Where should 'usually' go in this sentence: 'They [1] arrive [2] on time [3]?'",
+      "options": [
+        "Position [1]",
+        "Position [2]",
+        "Position [3]",
+        "Any position"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adverbs of frequency go before the main verb ('arrive'), so it must be placed at Position [1]."
+    },
+    {
+      "question": "Identify the adverb of manner: 'The child smiled happily and ran inside.'",
+      "options": [
+        "smiled",
+        "happily",
+        "inside",
+        "ran"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Happily' describes *how* the child smiled, making it an adverb of manner."
+    }
+  ]
+}

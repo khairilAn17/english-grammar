@@ -1,0 +1,98 @@
+{
+  "id": "a1_verbs",
+  "title": "Verbs",
+  "description": "Understand action verbs, linking verbs, and auxiliary verbs.",
+  "forms": {
+    "positive": "Subject + Action Verb (base / -s / -ed) | Subject + Linking Verb (am/is/are/was/were) + Complement",
+    "negative": "Subject + do/does/did + not + Verb (base) | Subject + be verb + not",
+    "question": "Do/Does/Did + Subject + Verb (base)? | Be verb + Subject + Complement?"
+  },
+  "usages": [
+    {
+      "useTitle": "Action Verbs (Dynamic)",
+      "description": "Action verbs describe physical actions, activities, or dynamic occurrences.",
+      "examples": [
+        "The child **drew** a picture.",
+        "They **ran** across the field.",
+        "She **wrote** an email to her manager."
+      ]
+    },
+    {
+      "useTitle": "Linking Verbs (Stative)",
+      "description": "Linking verbs do not show action; instead, they connect the subject to a word that describes or renames the subject (subject complements).",
+      "examples": [
+        "She **is** an excellent doctor.",
+        "The soup **smells** delicious.",
+        "They **became** friends quickly."
+      ]
+    },
+    {
+      "useTitle": "Auxiliary Verbs (Helping)",
+      "description": "Auxiliary verbs assist the main verb to indicate tense, mood, or voice. Common helpers are 'be', 'do', and 'have'.",
+      "examples": [
+        "We **are** learning grammar.",
+        "**Did** you finish the exercise?",
+        "He **has** completed the quiz."
+      ]
+    }
+  ],
+  "signalWords": [
+    "action",
+    "state",
+    "linking",
+    "auxiliary",
+    "be",
+    "do",
+    "have",
+    "run",
+    "write",
+    "seem"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The cake smells deliciously.",
+      "correct": "The cake smells delicious.",
+      "explanation": "Linking verbs (like smell, taste, feel, seem) must be followed by adjectives, not adverbs, because they describe the subject noun rather than the action."
+    },
+    {
+      "incorrect": "He does not plays football.",
+      "correct": "He does not play football.",
+      "explanation": "After auxiliary verbs (do, does, did), the main verb must always be in its base form (play), not its singular form (plays)."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Which verb in the sentence is a linking verb? 'The dog looked tired after the walk.'",
+      "options": [
+        "looked",
+        "tired",
+        "walk",
+        "looked & walk"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Looked' connects the subject 'dog' to its adjective complement 'tired', representing its state rather than a physical search action."
+    },
+    {
+      "question": "Identify the auxiliary verb: 'We did not see the movie yesterday.'",
+      "options": [
+        "see",
+        "did",
+        "movie",
+        "yesterday"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Did' is the helping (auxiliary) verb used here to construct the negative past simple sentence."
+    },
+    {
+      "question": "Choose the correct complement: 'This fabric feels _______.'",
+      "options": [
+        "soft",
+        "softly",
+        "softness",
+        "softest"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Feels' is a linking verb expressing sensory state. It must be followed by the adjective 'soft' to describe the fabric subject."
+    }
+  ]
+}

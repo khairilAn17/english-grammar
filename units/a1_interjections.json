@@ -1,0 +1,100 @@
+{
+  "id": "a1_interjections",
+  "title": "Interjections",
+  "description": "Express sudden emotion or reaction independently of sentence grammar.",
+  "forms": {
+    "positive": "Strong Emotion → Word/Phrase + Exclamation Mark (e.g., Wow! Ouch!) | Mild Emotion → Word/Phrase + Comma + Rest of Sentence (e.g., Well, I'm not sure.)",
+    "negative": "N/A - Classification Concept",
+    "question": "Is the emotion sudden and strong (exclamation) or mild and conversational (comma)?"
+  },
+  "usages": [
+    {
+      "useTitle": "Strong Interjections (Exclamatory)",
+      "description": "Used to express strong, sudden emotions. They stand alone followed by an exclamation mark and are grammatically independent from the following sentence.",
+      "examples": [
+        "**Wow!** That is an incredible performance.",
+        "**Ouch!** That stepping stone is very hot.",
+        "**Hooray!** We won the championship!"
+      ]
+    },
+    {
+      "useTitle": "Mild Interjections (Conversational)",
+      "description": "Mild interjections are used for softer reactions or fillers in conversation. They are connected to the sentence with a comma rather than an exclamation mark.",
+      "examples": [
+        "**Well,** I suppose we could try again.",
+        "**Oh,** I didn't realize you were here.",
+        "**Hmm,** that's an interesting idea."
+      ]
+    },
+    {
+      "useTitle": "Emotional Category Examples",
+      "description": "Interjections are categorized by the emotion they express — joy, pain, surprise, agreement, dismissal, or hesitation.",
+      "examples": [
+        "**Yes!** (agreement/excitement)",
+        "**Ugh!** (disgust/frustration)",
+        "**Aha!** (discovery/realization)",
+        "**Phew!** (relief)"
+      ]
+    }
+  ],
+  "signalWords": [
+    "wow",
+    "ouch",
+    "oh",
+    "well",
+    "hmm",
+    "hey",
+    "hooray",
+    "ugh",
+    "aha",
+    "phew",
+    "yikes"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Wow, that is absolutely amazing!",
+      "correct": "Wow! That is absolutely amazing.",
+      "explanation": "When an interjection expresses a very strong emotion, use an exclamation mark after the interjection, not a comma. The following sentence then ends with its own punctuation."
+    },
+    {
+      "incorrect": "Well! I think it might work.",
+      "correct": "Well, I think it might work.",
+      "explanation": "Mild conversational interjections like 'Well' or 'Oh' should be followed by a comma, not an exclamation mark, unless the emotion is genuinely very strong."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Which punctuation correctly follows a strong interjection like 'Ouch'?",
+      "options": [
+        "Ouch, that hurt!",
+        "Ouch! That hurt.",
+        "Ouch — that hurt.",
+        "Ouch; that hurt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong interjections expressing pain, surprise, or excitement are followed by an exclamation mark '!', after which the next sentence begins normally."
+    },
+    {
+      "question": "What emotion does 'Phew!' typically express?",
+      "options": [
+        "Pain",
+        "Surprise",
+        "Relief",
+        "Disgust"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Phew!' expresses relief, typically after escaping a stressful or difficult situation."
+    },
+    {
+      "question": "Which of the following is a mild conversational interjection correctly punctuated?",
+      "options": [
+        "Hmm! I need to think about that.",
+        "Hmm, I need to think about that.",
+        "Hmm. I need to think about that.",
+        "Hmm — I need to think about that."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hmm' is a mild interjection expressing hesitation and should be followed by a comma before the rest of the sentence."
+    }
+  ]
+}

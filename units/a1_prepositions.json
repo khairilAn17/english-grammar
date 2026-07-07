@@ -1,0 +1,90 @@
+{
+  "id": "a1_prepositions",
+  "title": "Prepositions",
+  "description": "Use in, on, at, under, and other location and time linkers.",
+  "forms": {
+    "positive": "Preposition of Place (in, on, at, under, behind) | Preposition of Time (in, on, at, before, after) + Noun Phrase",
+    "negative": "N/A - Classification Concept",
+    "question": "Does the preposition indicate time (when) or space/location (where)?"
+  },
+  "usages": [
+    {
+      "useTitle": "Prepositions of Place (Spatial)",
+      "description": "Prepositions of place show the position of a noun relative to another entity. 'In' is used for enclosed spaces, 'on' for surfaces, and 'at' for specific points.",
+      "examples": [
+        "The keys are **on** the dining table.",
+        "We live **in** a small apartment.",
+        "Meet me **at** the entrance of the mall.",
+        "The cat slept **under** the bed."
+      ]
+    },
+    {
+      "useTitle": "Prepositions of Time (Temporal)",
+      "description": "Prepositions of time specify when an action occurs. Use 'at' for clock times, 'on' for days/dates, and 'in' for months, years, and long periods.",
+      "examples": [
+        "The train leaves **at** 3:00 PM.",
+        "Our anniversary is **on** October 12th.",
+        "It gets very hot here **in** summer."
+      ]
+    }
+  ],
+  "signalWords": [
+    "in",
+    "on",
+    "at",
+    "under",
+    "behind",
+    "between",
+    "next to",
+    "before",
+    "after",
+    "through"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I will meet you in Monday.",
+      "correct": "I will meet you on Monday.",
+      "explanation": "Use 'on' for specific days of the week (Monday, Tuesday, etc.) or calendar dates, not 'in'."
+    },
+    {
+      "incorrect": "She is in the bus.",
+      "correct": "She is on the bus.",
+      "explanation": "For public transport vehicles where you can walk around (bus, train, plane, ship), we use 'on'. Use 'in' for private passenger cars, taxis, or small boats."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Fill in the blank: The painting is hanging _______ the wall.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "under"
+      ],
+      "correctIndex": 1,
+      "explanation": "The wall represents a vertical surface, so we use 'on'."
+    },
+    {
+      "question": "Fill in the blank: The concert starts _______ 7:30 PM.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "during"
+      ],
+      "correctIndex": 2,
+      "explanation": "We use 'at' for specific clock times."
+    },
+    {
+      "question": "Choose the correct preposition: She was born _______ 2005.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "since"
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'in' for calendar years."
+    }
+  ]
+}

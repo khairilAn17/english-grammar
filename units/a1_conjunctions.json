@@ -1,0 +1,102 @@
+{
+  "id": "a1_conjunctions",
+  "title": "Conjunctions",
+  "description": "Connect words, phrases, and clauses using coordinating, subordinating, and correlative conjunctions.",
+  "forms": {
+    "positive": "Coordinating (FANBOYS: for, and, nor, but, or, yet, so) | Subordinating (because, although, when, if, since) | Correlative (either...or, neither...nor, not only...but also)",
+    "negative": "N/A - Classification Concept",
+    "question": "Do the clauses joined have equal weight (coordinating) or does one depend on the other (subordinating)?"
+  },
+  "usages": [
+    {
+      "useTitle": "Coordinating Conjunctions (FANBOYS)",
+      "description": "Coordinating conjunctions link two independent clauses or grammatically equal elements. Remember the acronym FANBOYS: For, And, Nor, But, Or, Yet, So.",
+      "examples": [
+        "I wanted to go outside, **but** it was raining.",
+        "She is tired, **yet** she keeps working.",
+        "You can have tea **or** coffee."
+      ]
+    },
+    {
+      "useTitle": "Subordinating Conjunctions",
+      "description": "Subordinating conjunctions begin a dependent clause, connecting it to the main independent clause and showing relationships like cause, contrast, time, or condition.",
+      "examples": [
+        "He passed the exam **because** he studied every day.",
+        "**Although** she was nervous, she gave a great speech.",
+        "We will leave **when** you are ready."
+      ]
+    },
+    {
+      "useTitle": "Correlative Conjunctions",
+      "description": "Correlative conjunctions come in pairs and link equivalent grammatical elements with a clear relationship.",
+      "examples": [
+        "**Either** you apologize **or** you leave.",
+        "She is **not only** kind **but also** very patient.",
+        "**Neither** the manager **nor** the staff knew about the issue."
+      ]
+    }
+  ],
+  "signalWords": [
+    "for",
+    "and",
+    "nor",
+    "but",
+    "or",
+    "yet",
+    "so",
+    "because",
+    "although",
+    "when",
+    "if",
+    "since",
+    "either...or",
+    "neither...nor"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I was tired but however I finished the work.",
+      "correct": "I was tired, but I finished the work. / I was tired; however, I finished the work.",
+      "explanation": "'But' and 'however' both express contrast. Using them together is redundant. Use one or the other — 'but' as a coordinating conjunction or 'however' as a transitional adverb with a semicolon."
+    },
+    {
+      "incorrect": "Because she studied hard, so she passed.",
+      "correct": "Because she studied hard, she passed. / She studied hard, so she passed.",
+      "explanation": "'Because' and 'so' cannot both be used in the same sentence. One clause must be the cause and the other the effect — pick one conjunction."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Which type of conjunction links these two clauses? 'She is smart, but she lacks confidence.'",
+      "options": [
+        "Subordinating",
+        "Correlative",
+        "Coordinating",
+        "None of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "'But' is one of the FANBOYS coordinating conjunctions, linking two independent clauses of equal weight."
+    },
+    {
+      "question": "Choose the correct conjunction: 'We cancelled the trip _______ the weather was dangerous.'",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "yet"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Because' is a subordinating conjunction showing cause — the dangerous weather caused the trip cancellation."
+    },
+    {
+      "question": "Complete the correlative pair: 'Neither the CEO _______ the board approved the plan.'",
+      "options": [
+        "or",
+        "nor",
+        "but",
+        "and"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Neither...nor' is the correct correlative conjunction pair. 'Neither...or' is grammatically incorrect."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "a1_pronouns",
+  "title": "Pronouns",
+  "description": "Master subject, object, possessive, and reflexive pronouns.",
+  "forms": {
+    "positive": "Subject Pronouns (I, you, he, she, it, we, they) | Object Pronouns (me, you, him, her, it, us, them) | Possessive (mine, yours, his, hers, ours, theirs)",
+    "negative": "N/A - Classification Concept",
+    "question": "Does the pronoun replace the subject (acting) or object (receiving) of the sentence?"
+  },
+  "usages": [
+    {
+      "useTitle": "Subject Pronouns",
+      "description": "Subject pronouns replace the subject noun performing the action in a sentence.",
+      "examples": [
+        "**She** loves playing the piano.",
+        "**They** are going to the library.",
+        "**It** is a lovely day."
+      ]
+    },
+    {
+      "useTitle": "Object Pronouns",
+      "description": "Object pronouns replace nouns that receive the action of a verb or preposition.",
+      "examples": [
+        "Please tell **him** the news.",
+        "Our teacher helped **us** solve the puzzle.",
+        "I saw **them** at the supermarket."
+      ]
+    },
+    {
+      "useTitle": "Possessive Pronouns",
+      "description": "Possessive pronouns replace possessive adjectives + nouns to show ownership directly without repetition.",
+      "examples": [
+        "This phone is mine; where is **yours**?",
+        "The red car is **hers**.",
+        "That house on the corner is **theirs**."
+      ]
+    }
+  ],
+  "signalWords": [
+    "I",
+    "me",
+    "he",
+    "him",
+    "she",
+    "her",
+    "we",
+    "us",
+    "they",
+    "them",
+    "mine",
+    "yours",
+    "reflexive"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My friend and me went shopping.",
+      "correct": "My friend and I went shopping.",
+      "explanation": "If you remove 'My friend', you would say 'I went shopping', not 'Me went shopping'. Use the subject pronoun 'I' when it is part of a compound subject."
+    },
+    {
+      "incorrect": "It's their's house.",
+      "correct": "It's their house. / The house is theirs.",
+      "explanation": "Possessive pronouns (theirs, hers, ours) never use apostrophes."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Replace the bold word: **The teacher** explained the formula to the class.",
+      "options": [
+        "Him",
+        "He",
+        "They",
+        "Us"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The teacher' is the singular subject performing the action. The subject pronoun 'He' replaces it correctly."
+    },
+    {
+      "question": "Fill in the blank: She wanted to invite John, so she called _______.",
+      "options": [
+        "he",
+        "him",
+        "his",
+        "himself"
+      ],
+      "correctIndex": 1,
+      "explanation": "John is receiving the action of the verb 'called' (object), so we must use the object pronoun 'him'."
+    },
+    {
+      "question": "Is this laptop ______? I found it on the desk.",
+      "options": [
+        "your",
+        "yours",
+        "your's",
+        "you"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Yours' is the correct possessive pronoun showing ownership. No apostrophe is needed."
+    }
+  ]
+}

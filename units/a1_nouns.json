@@ -1,0 +1,98 @@
+{
+  "id": "a1_nouns",
+  "title": "Nouns",
+  "description": "Learn to identify common, proper, concrete, abstract, and collective nouns.",
+  "forms": {
+    "positive": "Singular: Noun (e.g., dog, city) | Plural: Noun + -s/-es (e.g., dogs, cities) or Irregular (e.g., children, people)",
+    "negative": "N/A - Classification Concept",
+    "question": "Is the noun countable (many, few) or uncountable (much, little)?"
+  },
+  "usages": [
+    {
+      "useTitle": "Common vs. Proper Nouns",
+      "description": "Common nouns name general things (lower case), while proper nouns name specific entities (capitalized).",
+      "examples": [
+        "The **city** was beautiful.",
+        "We traveled to **Paris** last summer.",
+        "That **scientist** won a prize.",
+        "**Albert Einstein** developed the theory of relativity."
+      ]
+    },
+    {
+      "useTitle": "Concrete vs. Abstract Nouns",
+      "description": "Concrete nouns name physical things you can experience with your five senses, whereas abstract nouns name qualities, concepts, or emotions.",
+      "examples": [
+        "Please pass the **salt**.",
+        "Her **courage** saved the child.",
+        "The **water** is cold.",
+        "**Peace** is essential for progress."
+      ]
+    },
+    {
+      "useTitle": "Collective Nouns",
+      "description": "Collective nouns name groups of people, animals, or things viewed as a single unit.",
+      "examples": [
+        "The **family** gathers every Sunday.",
+        "A **flock** of birds flew overhead.",
+        "Our team won the championship."
+      ]
+    }
+  ],
+  "signalWords": [
+    "person",
+    "place",
+    "thing",
+    "idea",
+    "singular",
+    "plural",
+    "proper",
+    "collective"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The paper was full of interesting informations.",
+      "correct": "The paper was full of interesting information.",
+      "explanation": "'Information' is an uncountable noun and cannot be made plural with -s. Use 'information' or 'pieces of information'."
+    },
+    {
+      "incorrect": "I saw two childs playing outside.",
+      "correct": "I saw two children playing outside.",
+      "explanation": "'Child' is an irregular plural noun. Its plural form is 'children', not 'childs'."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Which of the following is a proper noun?",
+      "options": [
+        "country",
+        "mountain",
+        "london",
+        "London"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proper nouns name specific places and must be capitalized ('London')."
+    },
+    {
+      "question": "Identify the abstract noun: 'She showed great honesty when returning the wallet.'",
+      "options": [
+        "honesty",
+        "wallet",
+        "returning",
+        "She"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Honesty' is an abstract concept/quality that you cannot touch or see physically, making it an abstract noun."
+    },
+    {
+      "question": "What is the correct plural form of the irregular noun 'tooth'?",
+      "options": [
+        "tooths",
+        "toothes",
+        "teeth",
+        "teeths"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Tooth' changes internally to form the irregular plural 'teeth'."
+    }
+  ]
+}

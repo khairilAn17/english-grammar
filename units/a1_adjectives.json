@@ -1,0 +1,99 @@
+{
+  "id": "a1_adjectives",
+  "title": "Adjectives",
+  "description": "Learn descriptive, possessive, and demonstrative adjectives.",
+  "forms": {
+    "positive": "Descriptive (e.g., tall, red) | Possessive (e.g., my, our) | Demonstrative (e.g., this, these)",
+    "negative": "N/A - Classification Concept",
+    "question": "Does the adjective come before a noun or after a linking verb?"
+  },
+  "usages": [
+    {
+      "useTitle": "Descriptive Adjectives",
+      "description": "Descriptive adjectives specify traits, qualities, size, color, or conditions of a noun.",
+      "examples": [
+        "A **huge** dog barked at us.",
+        "She wore a **red** dress.",
+        "The food was **hot**."
+      ]
+    },
+    {
+      "useTitle": "Possessive Adjectives",
+      "description": "Possessive adjectives (my, your, his, her, its, our, their) come directly before a noun to show ownership.",
+      "examples": [
+        "This is **my** book.",
+        "Have you seen **their** car?",
+        "The dog wagged **its** tail."
+      ]
+    },
+    {
+      "useTitle": "Demonstrative Adjectives",
+      "description": "Demonstrative adjectives (this, that, these, those) point to specific nouns relative to proximity.",
+      "examples": [
+        "**This** cup in my hand is warm.",
+        "**Those** stars in the sky are bright.",
+        "**These** apples look fresh."
+      ]
+    }
+  ],
+  "signalWords": [
+    "describe",
+    "my",
+    "your",
+    "our",
+    "its",
+    "this",
+    "that",
+    "these",
+    "those",
+    "size",
+    "color"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She bought some news shoes.",
+      "correct": "She bought some new shoes.",
+      "explanation": "Adjectives in English never change forms to plural. They remain singular even when modifying plural nouns ('new shoes', not 'news shoes')."
+    },
+    {
+      "incorrect": "It is a car expensive.",
+      "correct": "It is an expensive car.",
+      "explanation": "Adjectives typically come directly before the noun they modify, not after."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Identify the adjective modifying the noun 'story': 'The mysterious author told an interesting story.'",
+      "options": [
+        "mysterious",
+        "author",
+        "interesting",
+        "told"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Interesting' comes directly before and modifies the noun 'story'. ('Mysterious' modifies 'author')."
+    },
+    {
+      "question": "Which of these is a possessive adjective?",
+      "options": [
+        "mine",
+        "my",
+        "yours",
+        "me"
+      ],
+      "correctIndex": 1,
+      "explanation": "'My' is a possessive adjective because it goes before a noun (e.g., 'my book'). 'Mine' and 'yours' are possessive pronouns, and 'me' is an object pronoun."
+    },
+    {
+      "question": "Choose the correct demonstrative adjective: 'Please pass me _______ keys on the far table over there.'",
+      "options": [
+        "this",
+        "these",
+        "that",
+        "those"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because 'keys' is plural and located at a distance ('over there'), 'those' is the correct demonstrative adjective."
+    }
+  ]
+}
