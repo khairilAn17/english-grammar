@@ -1,0 +1,101 @@
+{
+  "id": "a1_articles",
+  "title": "Articles",
+  "description": "Learn to use indefinite articles (a/an) and the definite article (the) correctly.",
+  "forms": {
+    "positive": "a + consonant sound | an + vowel sound | the + specific noun",
+    "negative": "N/A",
+    "question": "Should I use a/an, the, or no article?"
+  },
+  "usages": [
+    {
+      "useTitle": "Indefinite Articles (a / an)",
+      "description": "Use 'a' or 'an' with singular, countable nouns when talking about them in a general, non-specific way, or for the first time.",
+      "examples": [
+        "I saw **a** dog in the park.",
+        "She wants to eat **an** apple.",
+        "He is **a** teacher."
+      ]
+    },
+    {
+      "useTitle": "Definite Article (the)",
+      "description": "Use 'the' with singular, plural, or uncountable nouns when the listener knows exactly which noun you are referring to (specific noun, or mentioned before).",
+      "examples": [
+        "**The** dog in the park was brown.",
+        "Please close **the** door.",
+        "He is **the** tallest boy in our class."
+      ]
+    },
+    {
+      "useTitle": "Zero Article (No Article)",
+      "description": "Do not use an article with plural or uncountable nouns when speaking about them in a general way, or with most names, countries, and cities.",
+      "examples": [
+        "I love **music**.",
+        "They drink **milk** every day.",
+        "We live in **London**."
+      ]
+    }
+  ],
+  "signalWords": [
+    "a",
+    "an",
+    "the",
+    "consonant",
+    "vowel",
+    "specific",
+    "general",
+    "first time",
+    "unique"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She is a honest person.",
+      "correct": "She is an honest person.",
+      "explanation": "We use 'an' before words that start with a vowel sound. The 'h' in 'honest' is silent, so it starts with the vowel sound /ɒ/."
+    },
+    {
+      "incorrect": "He goes to the school by bus.",
+      "correct": "He goes to school by bus.",
+      "explanation": "We do not use 'the' before institutions like school, university, or church when talking about their primary purpose."
+    },
+    {
+      "incorrect": "I saw an movie yesterday. The movie was funny.",
+      "correct": "I saw a movie yesterday. The movie was funny.",
+      "explanation": "'Movie' starts with a consonant sound (/m/), so it takes 'a', not 'an'."
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Choose the correct article: 'Could you pass me ______ water bottle on the table?'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since we are referring to a specific water bottle ('on the table'), we use the definite article 'the'."
+    },
+    {
+      "question": "Which sentence uses articles correctly?",
+      "options": [
+        "She wants to buy an yellow car.",
+        "She wants to buy a yellow car.",
+        "She wants to buy the yellow car."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Yellow' starts with a consonant sound (/j/), so we use 'a'."
+    },
+    {
+      "question": "Complete the sentence: 'He is studying to become ______ university professor.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correctIndex": 0,
+      "explanation": "Even though 'university' starts with the vowel letter 'u', it begins with a consonant sound (/j/ as in 'yoo-ni-ver-si-ty'), so we use 'a'."
+    }
+  ]
+}
